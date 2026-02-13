@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+MimicMotion/
+outputs/
+models/
+*.mp4
+.ipynb_checkpoints/
